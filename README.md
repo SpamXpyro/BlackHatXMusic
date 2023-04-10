@@ -6,16 +6,16 @@
 
 <p align="center">
     <a href="https://github.com/SpamXpyro/BlackHatXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/SpamXpyro/BlackHatXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/SpamXpyro/BlackHatXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/SpamXpyro/BlackHatXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Shizuka,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks For Using Our Music Bot,  🕶️ That Is Cool !
 
 
-## Features Of Shizuka And Commands ❤️
+## Features Of BlackHat Music Bot And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -38,7 +38,7 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 😂
+#### Overall Basic Commands For Users
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -52,7 +52,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### Commands Executable By Admins 🔥
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -68,7 +68,7 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Sudo Commands 🤭
+### Sudo Commands ⚡
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -77,7 +77,7 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🙈
+### Only Owner 🕶️
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
@@ -111,7 +111,7 @@
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/SpamXpyro/BlackHatXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -185,14 +185,19 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
+The Orignal Creator Of Repoistory Shizuka Music
 - [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
-- [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
+
+
+Owner Of This Repoistory -
+
+(Devil) (https://telegram.dog/Fan_Of_Devil_Forever)
+
+
+
+
+
+
 </details>
 
 <details>
@@ -200,8 +205,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Star_X_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BlackHatDemonSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BlackHatNetworkz"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
