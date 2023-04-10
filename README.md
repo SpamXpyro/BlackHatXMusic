@@ -12,7 +12,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks For Using Our Music Bot,<br>  🕶️ That Is Pretty Cool Of You !
+> ⭐️ Thanks For Using Our Music Bot,<br>  🕶️ That Is Pretty Cool Of You, <br> This Bot Is A Clone Of Shizuka Music Repo And We Provide Full Credits Too Them Regarding This Bot!
 
 
 ## Features Of BlackHat Music Bot And Commands ⚡
@@ -205,8 +205,8 @@ Owner Of This Repoistory -
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/BlackHatDemonSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/BlackHatNetworkz"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BlackHatNetworkz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BlackHatDemonSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
