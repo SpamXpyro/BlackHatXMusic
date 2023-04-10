@@ -12,10 +12,10 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks For Using Our Music Bot,  🕶️ That Is Cool !
+> ⭐️ Thanks For Using Our Music Bot,  🕶️ That Is Pretty Cool Of Yoy !
 
 
-## Features Of BlackHat Music Bot And Commands ❤️
+## Features Of BlackHat Music Bot And Commands ⚡
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
