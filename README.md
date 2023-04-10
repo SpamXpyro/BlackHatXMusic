@@ -1,8 +1,8 @@
-<h1 align="center"><b>🕶️ BlackHatxMusic 🕶️</b></h1>
+<h1 align="center"><b>🕶️ BlackHat Music 🕶️</b></h1>
 
-<h4 align="center">Blackhat Music Is a Music Bot Made For you Too Enjoy The Music In Your Group<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">Blackhat Music Is a Music Bot Made For you Too Enjoy Music In Your Chats Without Any Worry<br>...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/Fan_Of_Devil_Forever"><img src="https://te.legra.ph/file/080dcbb4491768990d7b8.mp4" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
