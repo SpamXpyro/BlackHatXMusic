@@ -1,6 +1,6 @@
 <h1 align="center"><b>🕶️ BlackHat Music 🕶️</b></h1>
 
-<h4 align="center">Blackhat Music Is a Music Bot Made For you Too Enjoy Music In Your Chats Without Any Worry<br>...</h4>
+<h4 align="center">Blackhat Music Is a Music Bot Made For you Too Enjoy Music In Your Chats Without Any Worry Woth Video And Audio Streaming Features<br>...</h4>
 
 <p align="center"><a href="https://telegram.dog/Fan_Of_Devil_Forever"><img src="https://te.legra.ph/file/c98fe3639314531d98813.jpg" width="400"></a></p>
 
@@ -12,7 +12,9 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks For Using Our Music Bot,<br>  🕶️ That Is Pretty Cool Of You, <br> <b> NOTE </b> <br> This Bot Is A Clone Of Shizuka Music Repo And We Provide Full Credits Too Them Regarding This Bot!
+> ⭐️ Thanks For Using Our Music Bot,<br>  🕶️ That Is Pretty Cool Of You, <br> <b> NOTE FORK THIS GIVEN REPO </b> <br> 
+https://github.com/its-star-boi/ShizukaXMusic
+This Bot Is A Clone Of Shizuka Music Repo And We Provide Full Credits Too Them Regarding This Bot!
 
 
 ## Features Of BlackHat Music Bot And Commands ⚡
